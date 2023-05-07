@@ -14,3 +14,24 @@ const winConditions = [
 let options = ["", "", "", "", "", "", "", "", ""];
 let currentPlayer = "X";
 let running = false;
+
+function initializeGame() {
+    
+}
+function cellClicked(){
+
+}
+function updateCell(cell, index){
+
+}
+function changePlayer(){
+
+}
+
+function checkWinner(){
+
+}
+function restartGame(){
+    
+}
+
